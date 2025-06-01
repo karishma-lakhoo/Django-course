@@ -1,5 +1,9 @@
 {
-    "files.exclude": {
-        "**/.git": false
-    }
+  "files.exclude": {
+    "**/.git": false
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
